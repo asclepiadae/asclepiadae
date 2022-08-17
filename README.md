@@ -1,4 +1,4 @@
-### Hello there <img alt="r2d2" src="http://emojis.slackmojis.com/emojis/images/1453827632/278/r2d2.png" />
+### Hello there!
 
 <!-- <p align="center">
   <img alt="Asclepiadae's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=asclepiadae&count_private=true&show_icons=true" />
