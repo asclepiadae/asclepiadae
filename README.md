@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there <img alt="r2d2" src="http://emojis.slackmojis.com/emojis/images/1453827632/278/r2d2.png" />
 
-<!--
-**asclepiadae/asclepiadae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <p align="center">
+  <img alt="Asclepiadae's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=asclepiadae&count_private=true&show_icons=true" />
+</p> -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an electrician, student Biomedical Engineering Technologist, and general computer geek from Canada 🇨🇦
+- 🧔🏻 Pronouns: He / Him
+- 💼 I’m currently working on post-secondary studies
+- 🌱 I’m currently learning far too much too fast!
+- 📫 How to reach me: 
+  - [Twitter](https://www.twitter.com/codplay)
+  - [Reddit](https://www.reddit.com/user/codplay)
+- 🎚️ Fun fact: I also love running live sound!
+- 🖥️ What I currently use: <br>
+![Windows 10/11](https://img.shields.io/badge/OS-Windows%2010/11-0078D6?style=for-the-badge&logo=windows)
