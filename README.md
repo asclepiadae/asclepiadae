@@ -11,5 +11,5 @@ I'm an electrician, student Biomedical Engineering Technologist, and general com
   - [Reddit](https://www.reddit.com/user/codplay)
 - 🎚️ Fun fact: I also love running live sound!
 - 🖥️ What I currently use: <br>
-![Windows 11](https://img.shields.io/badge/PCs-Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Personal-Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![RHEL](https://img.shields.io/badge/Server-RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
