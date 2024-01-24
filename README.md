@@ -12,4 +12,8 @@ I'm an electrician, student Biomedical Engineering Technologist, and general com
 - 🎚️ Fun fact: I also love running live sound!
 - 🖥️ What I currently use: <br>
 ![Windows 11](https://img.shields.io/badge/Personal-Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![RHEL](https://img.shields.io/badge/Server-RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Server](https://img.shields.io/badge/Server-aa5de9?style=for-the-badge&logo=almalinux&logoColor=white)
+![Maker](https://img.shields.io/badge/maker-0ca1a6?style=for-the-badge&logo=arduino&logoColor=white)
+![Deveeloper](https://img.shields.io/badge/Developer-017cc7?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![Deveeloper](https://img.shields.io/badge/Developer-777bb3?style=for-the-badge&logo=php&logoColor=white)
