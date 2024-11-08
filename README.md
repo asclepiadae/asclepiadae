@@ -25,10 +25,12 @@
 
 Accelerating my workflow and productivity on Windows with the following tools and configurations:
 
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![WSL](https://img.shields.io/badge/-WSL-0D1117?style=flat&logo=windows-subsystem-for-linux&logoColor=FCC624)
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logoColor=white&logo=logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2luZG93cyAxMTwvdGl0bGU+PHBhdGggZD0iTTAsMEgxMS4zNzdWMTEuMzcySDBaTTEyLjYyMywwSDI0VjExLjM3MkgxMi42MjNaTTAsMTIuNjIzSDExLjM3N1YyNEgwWm0xMi42MjMsMEgyNFYyNEgxMi42MjMiLz48L3N2Zz4=)
+![WSL](https://img.shields.io/badge/-WSL-FCC624?style=flat&logoColor=white&logo=logo=data:image/svg%2bxml;base64,)
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logoColor=white&logo=logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8+PC9zdmc+)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+
 
   </td>
   <td valign="top" width="33%">
@@ -41,7 +43,7 @@ I love working with Linux, and I'm always exploring new things in the vast open-
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Fedora Linux](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali-557C94?style=flat&logo=kali-linux&logoColor=white)
-
+![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat&logo=podman&logoColor=white)
   </td>
   <td valign="top" width="33%">
 
@@ -50,7 +52,8 @@ I love working with Linux, and I'm always exploring new things in the vast open-
 Ever since I played with my first breadboard, I've loved making things. Now I'm bridging the different worlds of construction, medicine, electronics, and programming!
 
 ![Arduino](https://img.shields.io/badge/-Arduino-0ca1a6?style=flat&logo=arduino&logoColor=white)
-
+![Adafruit](https://img.shields.io/badge/-Adafruit-000?style=flat&logo=adafruit&logoColor=white)
+![Open Source Hardware](https://img.shields.io/badge/-Open%20Source%20Hardware-0099B0?style=flat&logo=opensourcehardware&logoColor=white)
   </td>
   </tr>
   </table>
