@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🤓 &nbsp;I'm a huge nerd, and love learning about anything tech.\
-🩻 &nbsp;I'm currently learning how to fix healthcare equipment (Biomedical Engineering Technology).\
+🧪 &nbsp;I'm a Biomedical Engineering Technology working on automation & diagnostic equipment in Laboratory Medicine.\
 🔌 &nbsp;I'm a [Red Seal](https://www.red-seal.ca/eng/about/pr.4gr.1m.shtml) Journeyperson Electrician.\
 🌱 &nbsp;In my free time I like to detach from tech and garden or go hiking, or run Audio-Visual at Front of House for live events!\
 💬 Got a question or just curious about something? Feel free to ask!
@@ -11,7 +11,7 @@
 
 ### <p align="center">⚙️ My development environment </p>
 
-> My father was an early tech adopter, and I grew up with Windows PCs (my first video-game memory is watching him make a real-time flight at night in Microsoft Flight Sim 95!) It’s my day-to-day operating system, where I make use of everything from software like Fusion360, Illustrator, Windows Subsystem for Linux (WSL) and the Windows Terminal, and relax with EVGA-powered gaming adventures.
+> My father was an early tech enthusiast, and I grew up with Windows PCs (my first video-game memory is watching him make a real-time flight at night in Microsoft Flight Sim 95!) It’s my day-to-day operating system, using a wide range of software including Fusion360, Illustrator, Windows Subsystem for Linux (WSL) and the Windows Terminal, and also relax with EVGA-powered gaming adventures!
 
 <div class="table-devenvironment">
   <table style="font-size: 11px">
@@ -50,7 +50,7 @@ Ever since I played with my first breadboard[^1] I've loved making things. Now I
 ![Adafruit](https://img.shields.io/badge/%E2%80%8B-Adafruit-000?style=for-the-badge&logo=adafruit&logoColor=white)
 ![Open Source Hardware](https://img.shields.io/badge/%E2%80%8B-Open%20Source%20Hardware-0099B0?style=for-the-badge&logo=opensourcehardware&logoColor=white)
 ![nvidia](https://img.shields.io/badge/%E2%80%8B-RTX%203070%20Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-[^1]: Do you remember the [300 in One project kits](https://medium.com/@rxseger/electronic-project-kits-hands-on-with-a-vintage-160-in-1-eea39e6193f4#e22b) from Radio Shack?! I still have mine!
+[^1]: Anyone remember the [300 in One project kits](https://medium.com/@rxseger/electronic-project-kits-hands-on-with-a-vintage-160-in-1-eea39e6193f4#e22b) from Radio Shack?! I still have mine!
   </td>
   </tr>
   </table>
