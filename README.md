@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🤓 &nbsp;I'm a huge nerd, and love learning about anything tech.\
-🧪 &nbsp;I'm a Biomedical Engineering Technology working on automation & diagnostic equipment in Laboratory Medicine.\
+🧪 &nbsp;I'm a Biomedical Engineering Technologist working on automation & diagnostic equipment in Laboratory Medicine.\
 🔌 &nbsp;I'm a [Red Seal](https://www.red-seal.ca/eng/about/pr.4gr.1m.shtml) Journeyperson Electrician.\
 🌱 &nbsp;In my free time I like to detach from tech and garden or go hiking, or run Audio-Visual at Front of House for live events!\
 💬 Got a question or just curious about something? Feel free to ask!
@@ -11,7 +11,7 @@
 
 ### <p align="center">⚙️ My development environment </p>
 
-> My father was an early tech enthusiast, and I grew up with Windows PCs (my first video-game memory is watching him make a real-time flight at night in Microsoft Flight Sim 95!) It’s my day-to-day operating system, using a wide range of software including Fusion360, Illustrator, Windows Subsystem for Linux (WSL) and the Windows Terminal, and also relax with EVGA-powered gaming adventures!
+> My father was an early tech enthusiast, and I grew up with Windows PCs (my first computer memory is watching him make a real-time flight at night in Microsoft Flight Sim 95!) It’s currently my day-to-day operating system, using a wide range of software including Fusion360, Illustrator, Windows Subsystem for Linux (WSL), and also relaxing with EVGA-powered gaming adventures (survival co-op and RTS are my most-played genres)!
 
 <div class="table-devenvironment">
   <table style="font-size: 11px">
